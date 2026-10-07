@@ -29,7 +29,6 @@ An enterprise-ready, high-throughput backend service built with **Python 3.11**,
   - [4. Cryptographic Integrity & Scannable QR Codes](#4-cryptographic-integrity--scannable-qr-codes)
   - [5. Relational Database Modeling](#5-relational-database-modeling)
   - [6. Production Scaling Roadmap](#6-production-scaling-roadmap)
-- [Interview Defense & FAQs](#interview-defense--faqs)
 
 ---
 
