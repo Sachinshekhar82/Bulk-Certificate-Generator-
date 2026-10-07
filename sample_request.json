@@ -1,0 +1,53 @@
+{
+  "event_name": "Full Stack & Cloud Architecture Masterclass",
+  "issuer_name": "Aereo Engineering Academy",
+  "issue_date": "2026-10-07",
+  "template_title": "Certificate of Excellence",
+  "description": "for exceptional performance and successful graduation from the intensive program",
+  "recipients": [
+    {
+      "name": "Sachin Shekhar",
+      "email": "sachin@example.com",
+      "metadata": {
+        "score": "98%",
+        "grade": "Distinction",
+        "cohort": "2026-Q4"
+      }
+    },
+    {
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "metadata": {
+        "score": "94%",
+        "grade": "Distinction",
+        "cohort": "2026-Q4"
+      }
+    },
+    {
+      "name": "Alex Johnson",
+      "email": "alex.johnson@example.com",
+      "metadata": {
+        "score": "89%",
+        "grade": "First Class",
+        "cohort": "2026-Q4"
+      }
+    },
+    {
+      "name": "Corrupted Simulation User",
+      "email": "corrupted@example.com",
+      "metadata": {
+        "_simulate_failure": true,
+        "note": "Demonstrates fault isolation: fails without affecting other recipients"
+      }
+    },
+    {
+      "name": "Emily Clark",
+      "email": "emily.clark@example.com",
+      "metadata": {
+        "score": "96%",
+        "grade": "Distinction",
+        "cohort": "2026-Q4"
+      }
+    }
+  ]
+}
